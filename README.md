@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @AlinoobDev
-- 👀 I’m interested in AI & Software Development.
-- 🌱 I’m currently learning Computer Science (AI) at UNI, but also trying to self-tech me throughout to achieve my dream.
-- 💞️ I’m looking to for other devs to advise me on my Projects and journey!
-- 📫 How to reach me: 4li.mo91@gmail.com
-- 😄 Pronouns: HE?MR?
+
